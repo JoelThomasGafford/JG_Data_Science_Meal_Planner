@@ -41,7 +41,7 @@ Here is the data visualized using ggplot2.
 
 ![Graph 1](output/Meal_Planner_08_Plot_A_001.png)
 
-Everything you just saw had to be redesigned to work with Shiny's reactive function, which was challenging. But it works now!
+Everything you just saw had to be redesigned to work with Shiny's reactive functions, which was challenging. But it works now!
 
 TLDR: Play with the app!
 https://joelthomasgafford.shinyapps.io/JG_Data_Science_Meal_Planner/
