@@ -7,6 +7,8 @@ This project is a portfolio piece for my data science resume. I used RStudio and
 Link to the RStudio Shiny web app:
 https://joelthomasgafford.shinyapps.io/JG_Data_Science_Meal_Planner/
 
+![Graph 1](output/JG_Data_Science_Meal_Planner_B_001.PNG)
+
 The USDA website records nutrient information on nearly half a million foods, most of which are branded foods. This app will use the 316 "Foundation Foods" to make things simpler and more performant.
 
 ![Graph 1](output/Meal_Planner_01_USDA_A_001.PNG)
